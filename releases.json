@@ -1,0 +1,27 @@
+{
+  "version": "0.1.0",
+  "notes": "Fixed some bugs and added themes!",
+  "pub_date": "2026-02-07T12:00:00Z",
+  "platforms": {
+    "windows-x86_64_msi": {
+      "signature": "CONTENT_OF_THE_SIG_FILE",
+      "url": "https://github.com/735453/UniPlan_releases/releases/download/v0.1.0/UniPlan_0.1.0_x64.msi"
+    },
+    "windows-x86_64_exe": {
+      "signature": "CONTENT_OF_THE_SIG_FILE",
+      "url": "https://github.com/735453/UniPlan_releases/releases/download/v0.1.0/UniPlan_0.1.0_x64.exe"
+    },
+    "darwin-x86_64": {
+      "signature": "CONTENT_OF_THE_SIG_FILE",
+      "url": "https://github.com/735453/UniPlan_releases/releases/download/v0.1.0/UniPlan_0.1.0_x64.app"
+    },
+    "darwin-arm64": {
+      "signature": "CONTENT_OF_THE_SIG_FILE",
+      "url": "https://github.com/735453/UniPlan_releases/releases/download/v0.1.0/UniPlan_0.1.0_aarch64.app"
+    },
+    "linux-x86_64": {
+      "signature": "CONTENT_OF_THE_SIG_FILE",
+      "url": "https://github.com/735453/UniPlan_releases/releases/download/v0.1.0/UniPlan_0.1.0_amd64.AppImage"
+    }
+  }
+}
